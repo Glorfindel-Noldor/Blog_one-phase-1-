@@ -1,1 +1,1 @@
-# Blog_one-phase-1-
+This is a simple blog, explaining my learning journey through phase 1 in Flatiron Academy
